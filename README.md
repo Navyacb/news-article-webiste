@@ -1,8 +1,9 @@
 Tech stack Used : React+Typescript+Vite , Mantine styling , React-routing , React-Query , Axios(Ajax)
 
 To Run , 
- 1. npm dev run
- 2. Press o + enter to open in the browser
+ 1. npm install
+ 2. npm dev run
+ 3. Press o + enter to open in the browser
 
  main.tsx = It is the entry file where it initializes the React application ,rendering the App component
 
