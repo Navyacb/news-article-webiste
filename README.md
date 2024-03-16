@@ -1,8 +1,9 @@
 Tech stack Used : React+Typescript+Vite , Mantine styling , React-routing , React-Query , Axios(Ajax)
 
-To Run , 
- 1. npm install
- 2. npm dev run
+To Run the application, 
+ 1. Git clone https://github.com/Navyacb/news-article-webiste
+ 2. npm install
+ 3. npm dev run
 
  main.tsx = It is the entry file where it initializes the React application ,rendering the App component
 
